@@ -13,13 +13,13 @@
 #
 ---
 include:
-  - board: xiao_ble
+  - board: xiao_ble/nrf52840/zmk
     shield: corne_central_dongle dongle_screen
-  - board: nice_nano
+  - board: nice_nano/nrf52840/zmk
     shield: corne_peripheral_left
-  - board: nice_nano
+  - board: nice_nano/nrf52840/zmk
     shield: corne_peripheral_right
-  - board: nice_nano
+  - board: nice_nano/nrf52840/zmk
     shield: settings_reset
-  - board: xiao_ble
+  - board: xiao_ble/nrf52840/zmk
     shield: settings_reset
