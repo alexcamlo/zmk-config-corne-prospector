@@ -250,7 +250,7 @@
             bindings
                 = <&macro_press &kp GLOBE>
                 , <&macro_tap &kp S>
-                , <&macro_release &kp GLOBE>
+                , <&macro_release &kp GLOBE>;
         };
     };
 
